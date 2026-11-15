@@ -1,0 +1,102 @@
+facility_id,facility_name,city,county,zip,hospital_type,hospital_ownership,hospital_overall_rating,measures_with_err,hrrp_status
+500002,PROVIDENCE ST MARY MEDICAL CENTER,WALLA WALLA,WALLA WALLA,99362,Acute Care Hospitals,Voluntary non-profit - Private,3.0,5,In HRRP
+500003,SKAGIT VALLEY HOSPITAL,MOUNT VERNON,SKAGIT,98274,Acute Care Hospitals,Government - Hospital District or Authority,3.0,5,In HRRP
+500005,VIRGINIA MASON MEDICAL CENTER,SEATTLE,KING,98101,Acute Care Hospitals,Voluntary non-profit - Private,5.0,6,In HRRP
+500007,ISLAND HOSPITAL,ANACORTES,SKAGIT,98221,Acute Care Hospitals,Government - Hospital District or Authority,4.0,3,In HRRP
+500008,UNIVERSITY OF WASHINGTON MEDICAL CTR,SEATTLE,KING,98195,Acute Care Hospitals,Government - State,4.0,6,In HRRP
+500011,HIGHLINE MEDICAL CENTER,BURIEN,KING,98166,Acute Care Hospitals,Voluntary non-profit - Private,4.0,4,In HRRP
+500014,PROVIDENCE REGIONAL MEDICAL CENTER EVERETT,EVERETT,SNOHOMISH,98201,Acute Care Hospitals,Voluntary non-profit - Church,4.0,6,In HRRP
+500015,MULTICARE AUBURN MEDICAL CENTER,AUBURN,KING,98001,Acute Care Hospitals,Voluntary non-profit - Private,2.0,5,In HRRP
+500016,CONFLUENCE HEALTH HOSPITAL,WENATCHEE,CHELAN,98807,Acute Care Hospitals,Voluntary non-profit - Private,3.0,6,In HRRP
+500019,PROVIDENCE CENTRALIA HOSPITAL,CENTRALIA,LEWIS,98531,Acute Care Hospitals,Voluntary non-profit - Other,3.0,5,In HRRP
+500021,ST CLARE HOSPITAL,LAKEWOOD,PIERCE,98499,Acute Care Hospitals,Voluntary non-profit - Church,4.0,4,In HRRP
+500024,PROVIDENCE ST PETER HOSPITAL,OLYMPIA,THURSTON,98506,Acute Care Hospitals,Voluntary non-profit - Private,3.0,6,In HRRP
+500025,SWEDISH MEDICAL CENTER / CHERRY HILL,SEATTLE,KING,98122,Acute Care Hospitals,Voluntary non-profit - Church,4.0,4,In HRRP
+500026,SWEDISH EDMONDS HOSPITAL,EDMONDS,SNOHOMISH,98026,Acute Care Hospitals,Voluntary non-profit - Private,3.0,4,In HRRP
+500027,SWEDISH MEDICAL CENTER,SEATTLE,KING,98122,Acute Care Hospitals,Voluntary non-profit - Private,4.0,4,In HRRP
+500030,PEACEHEALTH ST JOSEPH MEDICAL CENTER,BELLINGHAM,WHATCOM,98225,Acute Care Hospitals,Voluntary non-profit - Other,4.0,6,In HRRP
+500031,GRAYS HARBOR COMMUNITY HOSPITAL,ABERDEEN,GRAYS HARBOR,98520,Acute Care Hospitals,Voluntary non-profit - Private,3.0,5,In HRRP
+500033,SAMARITAN HOSPITAL,MOSES LAKE,GRANT,98837,Acute Care Hospitals,Proprietary,2.0,3,In HRRP
+500036,YAKIMA VALLEY MEMORIAL,YAKIMA,YAKIMA,98902,Acute Care Hospitals,Voluntary non-profit - Private,1.0,5,In HRRP
+500037,ASTRIA TOPPENISH HOSPITAL,TOPPENISH,YAKIMA,98948,Acute Care Hospitals,Voluntary non-profit - Private,,1,In HRRP
+500039,ST MICHAEL MEDICAL CENTER,SILVERDALE,KITSAP,98383,Acute Care Hospitals,Voluntary non-profit - Private,4.0,6,In HRRP
+500041,PEACEHEALTH ST JOHN MEDICAL CENTER,LONGVIEW,COWLITZ,98632,Acute Care Hospitals,Voluntary non-profit - Church,4.0,5,In HRRP
+500044,DEACONESS MEDICAL CENTER,SPOKANE,SPOKANE,99210,Acute Care Hospitals,Voluntary non-profit - Private,3.0,6,In HRRP
+500050,PEACEHEALTH SOUTHWEST MEDICAL CENTE,VANCOUVER,CLARK,98664,Acute Care Hospitals,Voluntary non-profit - Private,3.0,6,In HRRP
+500051,OVERLAKE HOSPITAL MEDICAL CENTER & CLINICS,BELLEVUE,KING,98004,Acute Care Hospitals,Voluntary non-profit - Other,2.0,6,In HRRP
+500052,KAISER PERMANENTE CENTRAL HOSPITAL,SEATTLE,KING,98112,Acute Care Hospitals,Voluntary non-profit - Other,,0,In HRRP
+500053,TRIOS HEALTH,KENNEWICK,BENTON,99338,Acute Care Hospitals,Government - Hospital District or Authority,2.0,5,In HRRP
+500054,PROV SACRED HRT MED CTR & CHILDS HOSP.,SPOKANE,SPOKANE,99220,Acute Care Hospitals,Voluntary non-profit - Church,3.0,6,In HRRP
+500058,KADLEC REGIONAL MEDICAL CENTER,RICHLAND,BENTON,99352,Acute Care Hospitals,Voluntary non-profit - Private,4.0,6,In HRRP
+50005F,Madigan AMC (FT Lewis),Joint Base Lewis-McChord,PIERCE,98431,Acute Care - Department of Defense,Department of Defense,,0,Not in HRRP
+500060,CASCADE VALLEY HOSPITAL,ARLINGTON,SNOHOMISH,98223,Acute Care Hospitals,Government - Hospital District or Authority,4.0,2,In HRRP
+500064,HARBORVIEW MEDICAL CENTER,SEATTLE,KING,98104,Acute Care Hospitals,Government - Local,2.0,4,In HRRP
+500072,OLYMPIC MEDICAL CENTER,PORT ANGELES,CLALLAM,98362,Acute Care Hospitals,Government - Local,3.0,3,In HRRP
+500077,PROVIDENCE HOLY FAMILY HOSPITAL,SPOKANE,SPOKANE,99208,Acute Care Hospitals,Voluntary non-profit - Private,3.0,3,In HRRP
+500079,MULTICARE GOOD SAMARITAN HOSPITAL,PUYALLUP,PIERCE,98372,Acute Care Hospitals,Voluntary non-profit - Private,2.0,5,In HRRP
+500084,EVERGREENHEALTH MONROE,MONROE,SNOHOMISH,98272,Acute Care Hospitals,Government - Hospital District or Authority,3.0,2,In HRRP
+500088,VALLEY MEDICAL CENTER,RENTON,KING,98055,Acute Care Hospitals,Government - Hospital District or Authority,2.0,4,In HRRP
+500108,ST JOSEPH MEDICAL CENTER,TACOMA,PIERCE,98405,Acute Care Hospitals,Voluntary non-profit - Church,3.0,5,In HRRP
+500119,MULTICARE VALLEY HOSPITAL,SPOKANE VALLEY,SPOKANE,99216,Acute Care Hospitals,Voluntary non-profit - Private,5.0,4,In HRRP
+50011F,SPOKANE VA MEDICAL CENTER,SPOKANE,SPOKANE,99205,Acute Care - Veterans Administration,Veterans Health Administration,4.0,0,Not in HRRP
+500124,EVERGREENHEALTH MEDICAL CENTER,KIRKLAND,KING,98034,Acute Care Hospitals,Government - Hospital District or Authority,5.0,5,In HRRP
+500129,TACOMA GENERAL ALLENMORE HOSPITAL,TACOMA,PIERCE,98405,Acute Care Hospitals,Voluntary non-profit - Private,2.0,6,In HRRP
+500138,FRED HUTCHINSON CANCER INSTITUTE,SEATTLE,KING,98109,Dedicated Cancer Care,Voluntary non-profit - Other,,0,Not in HRRP
+500139,CAPITAL MEDICAL CENTER,OLYMPIA,THURSTON,98502,Acute Care Hospitals,Voluntary non-profit - Private,3.0,5,In HRRP
+500141,ST FRANCIS COMMUNITY HOSPITAL,FEDERAL WAY,KING,98003,Acute Care Hospitals,Voluntary non-profit - Church,4.0,4,In HRRP
+500150,LEGACY SALMON CREEK MEDICAL CENTER,VANCOUVER,CLARK,98686,Acute Care Hospitals,Voluntary non-profit - Private,4.0,5,In HRRP
+500151,ST ANTHONY HOSPITAL,GIG HARBOR,PIERCE,98332,Acute Care Hospitals,Voluntary non-profit - Church,5.0,4,In HRRP
+500152,SWEDISH ISSAQUAH,ISSAQUAH,KING,98029,Acute Care Hospitals,Voluntary non-profit - Private,4.0,4,In HRRP
+500154,MULTICARE COVINGTON MEDICAL CENTER,COVINGTON,KING,98042,Acute Care Hospitals,Voluntary non-profit - Private,3.0,3,In HRRP
+50030F,SEATTLE VA MEDICAL CENTER (VA PUGET SOUND HEALTHCARE SYSTEM),SEATTLE,KING,98108,Acute Care - Veterans Administration,Veterans Health Administration,4.0,0,Not in HRRP
+500779,EAST ADAMS RURAL HOSPITAL,RITZVILLE,ADAMS,99169,Rural Emergency Hospital,Government - Hospital District or Authority,,0,Not in HRRP
+501301,GARFIELD COUNTY PUBLIC HOSPITAL DISTRICT #1,POMEROY,GARFIELD,99347,Critical Access Hospitals,Government - Hospital District or Authority,,0,Not in HRRP
+501302,DAYTON GENERAL HOSPITAL,DAYTON,COLUMBIA,99328,Critical Access Hospitals,Government - Hospital District or Authority,,0,Not in HRRP
+501303,WILLAPA HARBOR HOSPITAL,SOUTH BEND,PACIFIC,98586,Critical Access Hospitals,Government - Hospital District or Authority,,0,Not in HRRP
+501304,SUMMIT PACIFIC MEDICAL CENTER,ELMA,GRAYS HARBOR,98541,Critical Access Hospitals,Government - Hospital District or Authority,2.0,0,Not in HRRP
+501305,LINCOLN HOSPITAL,DAVENPORT,LINCOLN,99122,Critical Access Hospitals,Government - Hospital District or Authority,,0,Not in HRRP
+501307,ODESSA MEMORIAL HEALTHCARE CENTER,ODESSA,LINCOLN,99159,Critical Access Hospitals,Government - Hospital District or Authority,,0,Not in HRRP
+501308,COULEE MEDICAL CENTER,GRAND COULEE,GRANT,99133,Critical Access Hospitals,Government - Hospital District or Authority,,0,Not in HRRP
+501309,PROVIDENCE ST JOSEPH HOSPITAL,CHEWELAH,STEVENS,99109,Critical Access Hospitals,Voluntary non-profit - Church,,0,Not in HRRP
+501310,NEWPORT COMMUNITY HOSPITAL,NEWPORT,PEND OREILLE,99156,Critical Access Hospitals,Government - Hospital District or Authority,,0,Not in HRRP
+501312,PROSSER MEMORIAL HOSPITAL,PROSSER,BENTON,99350,Critical Access Hospitals,Government - Hospital District or Authority,3.0,0,Not in HRRP
+501313,CASCADE MEDICAL CENTER,LEAVENWORTH,CHELAN,98826,Critical Access Hospitals,Government - Hospital District or Authority,,0,Not in HRRP
+501314,OCEAN BEACH HOSPITAL,ILWACO,PACIFIC,98624,Critical Access Hospitals,Government - Hospital District or Authority,2.0,0,Not in HRRP
+501315,SKYLINE HOSPITAL,WHITE SALMON,KLICKITAT,98672,Critical Access Hospitals,Government - Hospital District or Authority,,0,Not in HRRP
+501316,KLICKITAT VALLEY HOSPITAL,GOLDENDALE,KLICKITAT,98620,Critical Access Hospitals,Government - Hospital District or Authority,,0,Not in HRRP
+501317,COLUMBIA BASIN HOSPITAL,EPHRATA,GRANT,98823,Critical Access Hospitals,Government - Hospital District or Authority,,0,Not in HRRP
+501318,OTHELLO COMMUNITY HOSPITAL,OTHELLO,ADAMS,99344,Critical Access Hospitals,Government - Local,,0,Not in HRRP
+501319,ARBOR HEALTH MORTON HOSPITAL,MORTON,LEWIS,98356,Critical Access Hospitals,Government - Hospital District or Authority,,0,Not in HRRP
+501320,QUINCY VALLEY MEDICAL CENTER,QUINCY,GRANT,98848,Critical Access Hospitals,Government - Hospital District or Authority,,0,Not in HRRP
+501321,NORTH VALLEY HOSPITAL,TONASKET,OKANOGAN,98855,Critical Access Hospitals,Government - Hospital District or Authority,,0,Not in HRRP
+501322,FERRY COUNTY MEMORIAL HOSPITAL,REPUBLIC,FERRY,99166,Critical Access Hospitals,Government - Hospital District or Authority,,0,Not in HRRP
+501323,JEFFERSON HEALTHCARE,PORT TOWNSEND,JEFFERSON,98368,Critical Access Hospitals,Government - Hospital District or Authority,3.0,0,Not in HRRP
+501324,THREE RIVERS HOSPITAL,BREWSTER,OKANOGAN,98812,Critical Access Hospitals,Government - Hospital District or Authority,,0,Not in HRRP
+501325,FORKS COMMUNITY HOSPITAL,FORKS,CLALLAM,98331,Critical Access Hospitals,Government - Hospital District or Authority,,0,Not in HRRP
+501326,PROVIDENCE MOUNT CARMEL HOSPITAL,COLVILLE,STEVENS,99114,Critical Access Hospitals,Voluntary non-profit - Church,3.0,0,Not in HRRP
+501327,WHITMAN HOSPITAL AND MEDICAL CENTER,COLFAX,WHITMAN,99111,Critical Access Hospitals,Government - Hospital District or Authority,5.0,0,Not in HRRP
+501328,MID VALLEY HOSPITAL & CLINIC,OMAK,OKANOGAN,98841,Critical Access Hospitals,Government - Hospital District or Authority,,0,Not in HRRP
+501329,PEACEHEALTH UNITED GENERAL MEDICAL CENTER,SEDRO WOOLLEY,SKAGIT,98284,Critical Access Hospitals,Government - Hospital District or Authority,3.0,0,Not in HRRP
+501330,ASTRIA SUNNYSIDE HOSPITAL,SUNNYSIDE,YAKIMA,98944,Critical Access Hospitals,Voluntary non-profit - Other,2.0,0,Not in HRRP
+501331,PULLMAN REGIONAL HOSPITAL,PULLMAN,WHITMAN,99163,Critical Access Hospitals,Government - Hospital District or Authority,2.0,0,Not in HRRP
+501332,TRI-STATE MEMORIAL HOSPITAL,CLARKSTON,ASOTIN,99403,Critical Access Hospitals,Voluntary non-profit - Private,4.0,0,Not in HRRP
+501333,KITTITAS VALLEY COMMUNITY HOSPITAL,ELLENSBURG,KITTITAS,98926,Critical Access Hospitals,Government - Hospital District or Authority,,0,Not in HRRP
+501334,LAKE CHELAN COMMUNITY HOSPITAL,CHELAN,CHELAN,98816,Critical Access Hospitals,Government - Hospital District or Authority,,0,Not in HRRP
+501335,ST ELIZABETH HOSPITAL,ENUMCLAW,KING,98022,Critical Access Hospitals,Voluntary non-profit - Private,5.0,0,Not in HRRP
+501336,MASON GENERAL HOSPITAL & FAMILY OF CLINICS,SHELTON,MASON,98584,Critical Access Hospitals,Government - Hospital District or Authority,2.0,0,Not in HRRP
+501337,LOURDES MEDICAL CENTER,PASCO,FRANKLIN,99301,Critical Access Hospitals,Voluntary non-profit - Church,3.0,0,Not in HRRP
+501338,SNOQUALMIE VALLEY HOSPITAL,SNOQUALMIE,KING,98065,Critical Access Hospitals,Government - Hospital District or Authority,,0,Not in HRRP
+501339,WHIDBEYHEALTH MEDICAL CENTER,COUPEVILLE,ISLAND,98239,Critical Access Hospitals,Government - Hospital District or Authority,2.0,0,Not in HRRP
+501340,PEACEHEALTH PEACE ISLAND MEDICAL CENTER,FRIDAY HARBOR,SAN JUAN,98250,Critical Access Hospitals,Voluntary non-profit - Private,,0,Not in HRRP
+503300,SEATTLE CHILDREN'S HOSPITAL,SEATTLE,KING,98105,Childrens,Voluntary non-profit - Private,,0,Not in HRRP
+503301,MARY BRIDGE CHILDREN'S HOSPITAL,TACOMA,PIERCE,98415,Childrens,Voluntary non-profit - Other,,0,Not in HRRP
+503302,SHRINERS HOSPITAL FOR CHILDREN,SPOKANE,SPOKANE,99204,Childrens,Voluntary non-profit - Private,,0,Not in HRRP
+504002,BHC FAIRFAX HOSPITAL,KIRKLAND,KING,98034,Psychiatric,Proprietary,,0,Not in HRRP
+504004,EASTERN STATE HOSPITAL,MEDICAL LAKE,SPOKANE,99022,Psychiatric,Government - State,,0,Not in HRRP
+504008,LOURDES COUNSELING CENTER,RICHLAND,BENTON,99352,Psychiatric,Voluntary non-profit - Private,,0,Not in HRRP
+504009,NAVOS - INPATIENT SERVICES,SEATTLE,KING,98126,Psychiatric,Voluntary non-profit - Private,,0,Not in HRRP
+504012,SMOKEY POINT BEHAVIORAL HOSPITAL,MARYSVILLE,SNOHOMISH,98271,Psychiatric,Proprietary,,0,Not in HRRP
+504013,RAINIER SPRINGS,VANCOUVER,CLARK,98686,Psychiatric,Proprietary,,0,Not in HRRP
+504014,INLAND NORTHWEST BEHAVIORAL HEALTH,SPOKANE,SPOKANE,99204,Psychiatric,Proprietary,,0,Not in HRRP
+504015,SOUTH SOUND BEHAVIORAL HOSPITAL,LACEY,THURSTON,98503,Psychiatric,Proprietary,,0,Not in HRRP
+504016,WELLFOUND BEHAVIORAL HEALTH HOSPITAL,TACOMA,PIERCE,98405,Psychiatric,Voluntary non-profit - Private,,0,Not in HRRP

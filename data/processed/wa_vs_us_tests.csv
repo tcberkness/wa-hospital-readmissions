@@ -1,0 +1,7 @@
+measure_name,measure_label,wa_hospitals,wa_mean_err,wa_ci_low,wa_ci_high,other_states_hospitals,other_states_mean_err,other_ci_low,other_ci_high,difference,cohens_d,p_vs_1,p_welch,p_mannwhitney,p_welch_bh,significant_fdr_05
+READM-30-HIP-KNEE-HRRP,Hip/knee replacement,29,0.9225,0.878,0.9669,1418,1.0057,0.9975,1.0138,-0.0832,-0.5356,0.0013,0.0007,0.0041,0.0014,True
+READM-30-HF-HRRP,Heart failure,44,0.9517,0.9333,0.97,2577,1.0023,0.9998,1.0048,-0.0506,-0.782,0.0,0.0,0.0,0.0,True
+READM-30-CABG-HRRP,Bypass surgery (CABG),15,0.9526,0.9029,1.0023,863,1.0026,0.9962,1.0091,-0.0501,-0.5193,0.0598,0.0497,0.0327,0.0596,False
+READM-30-PN-HRRP,Pneumonia,45,0.9669,0.9522,0.9817,2670,1.0021,0.9995,1.0046,-0.0351,-0.5309,0.0,0.0,0.0001,0.0001,True
+READM-30-AMI-HRRP,Heart attack (AMI),34,0.9785,0.9568,1.0002,1702,1.0022,0.999,1.0054,-0.0238,-0.3559,0.0516,0.0344,0.0413,0.0516,False
+READM-30-COPD-HRRP,COPD,40,0.9941,0.9815,1.0067,2283,1.0013,0.9994,1.0031,-0.0072,-0.1558,0.3478,0.2614,0.3695,0.2614,False
